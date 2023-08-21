@@ -11,9 +11,14 @@
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#tech-stack"><strong>Tech Stack</strong></a>
+    <a href="#live-demo"><strong>Live Demo</strong></a>
+
 </p>
 
 <br/>
+
+## Live demo
+https://reactjs-dashboard-ui.vercel.app
 
 <!-- ABOUT THE PROJECT -->
 
